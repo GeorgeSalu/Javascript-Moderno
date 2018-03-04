@@ -1,6 +1,7 @@
-#Curso : Web Moderno com JavaScript
+# Curso : Web Moderno com JavaScript
+#### https://www.udemy.com/curso-web/
 
-####O que aprenderei?
+#### O que aprenderei?
 
 - Tudo que vc precisa saber para construir aplicações modernas para Web
 - HTML, CSS, JavaScript, React, VueJS, Banco de Dados e muito mais
@@ -10,7 +11,7 @@
 - Paradigmas de programação aplicados em JS
 - Criar projetos integrando o que aprendemos no curso
 
-####Descrição
+#### Descrição
 
 Seja muito bem vindo ao Curso Completo de Desenvolvimento Web Moderno!
 
