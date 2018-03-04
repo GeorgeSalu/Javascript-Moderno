@@ -1,4 +1,16 @@
- Descrição
+#Curso : Web Moderno com JavaScript
+
+####O que aprenderei?
+
+- Tudo que vc precisa saber para construir aplicações modernas para Web
+- HTML, CSS, JavaScript, React, VueJS, Banco de Dados e muito mais
+- Base sólida de Javascript com os novos recursos da linguagem
+- Funções, Objetos, Array, Prototype, Clousure...
+- Usar JS para interagir com o DOM, requisições Ajax, ferramentas de build (Webpack e Gulp)
+- Paradigmas de programação aplicados em JS
+- Criar projetos integrando o que aprendemos no curso
+
+####Descrição
 
 Seja muito bem vindo ao Curso Completo de Desenvolvimento Web Moderno!
 
