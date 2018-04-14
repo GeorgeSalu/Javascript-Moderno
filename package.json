@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/GeorgeSalu/Javascript-Moderno#readme",
   "dependencies": {
-    "lodash": "^4.17.5"
+    "axios": "^0.18.0",
+    "lodash": "^4.17.5",
+    "npm": "^5.8.0"
   }
 }
