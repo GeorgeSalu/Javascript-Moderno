@@ -4,6 +4,8 @@
   "description": "- Tudo que vc precisa saber para construir aplicações modernas para Web\r - HTML, CSS, JavaScript, React, VueJS, Banco de Dados e muito mais\r - Base sólida de Javascript com os novos recursos da linguagem\r - Funções, Objetos, Array, Prototype, Clousure...\r - Usar JS para interagir com o DOM, requisições Ajax, ferramentas de build (Webpack e Gulp)\r - Paradigmas de programação aplicados em JS\r - Criar projetos integrando o que aprendemos no curso",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
+    "dev":"nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
