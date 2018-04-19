@@ -9,3 +9,16 @@ const passo2 = (ctx, next) => {
     next()
 }
 
+const passo3 = ctx => ctx.valor3 = 'mid3'
+
+const exec = (ctx, ...middlawares) => {
+    const execPasso = indice => {
+        middlawares && indice < middlawares.length && 
+            middlawares[indice](ctx, () => execPasso(indice + 1))
+    }
+    execPasso(0)
+}
+
+const ctx = {}
+exec(ctx, passo1, passo2, passo3)
+console.log(ctx)
