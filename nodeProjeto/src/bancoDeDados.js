@@ -7,7 +7,7 @@ const produtos = {}
 
 function salvarProduto(produto) {
     if(!produto.id) produto.id = sequence.id
-    produto[produto.id] = produto
+    produtos[produto.id] = produto
     return produto
 }
 
