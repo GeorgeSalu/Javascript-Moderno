@@ -1,5 +1,6 @@
-# Curso : Web Moderno com JavaScript
+## Curso : Web Moderno com JavaScript
 #### https://www.udemy.com/curso-web/
+#### https://www.cod3r.com.br/portal
 
 #### O que aprenderei?
 
