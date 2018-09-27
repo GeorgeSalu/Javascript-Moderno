@@ -1,6 +1,6 @@
 <template>
     <button class="button"
-        @click="$emit('onCalcButtonClick', label)"
+        @click="$emit('onClick', label)"
         :class="{ double, triple, operation }">
         {{ label }}
     </button>
@@ -10,10 +10,10 @@
 export default {
     props: {
         label: {},
-        operation: {type: Boolean},
-        double: {type: Boolean},
-        triple: {type: Boolean}
-    }    
+        operation: { type: Boolean },
+        double: { type: Boolean },
+        triple: { type: Boolean }
+    }
 }
 </script>
 
